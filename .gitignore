@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset images (too large for git)
+COVID/
+Lung_Opacity/
+Normal/
+Viral Pneumonia/
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
