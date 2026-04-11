@@ -1,0 +1,1 @@
+{"search_minutes": 11.600563188393911, "best_hp": {"n_blocks": 3, "filters_1": 32, "filters_2": 128, "filters_3": 256, "dense_units": 128, "dropout": 0.3, "l2": 0.0, "learning_rate": 0.001}}

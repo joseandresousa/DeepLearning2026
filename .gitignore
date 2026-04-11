@@ -20,3 +20,22 @@ Viral Pneumonia/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Configuration files
+.vscode/
+
+# Environment variables
+.env
+
+# Models — ignore large binaries, keep metadata/history JSON
+models/*.keras
+models/*.png
+rad_dino_features/
+tuner_results/
+
+# Old notebook versions
+DP_JS v1.ipynb
+DP_JS v2.ipynb
+DP_JS v3.ipynb
+DP_JS_V4.ipynb
+
